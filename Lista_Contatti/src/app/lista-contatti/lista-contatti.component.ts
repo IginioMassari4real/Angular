@@ -1,9 +1,11 @@
+import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
+
 
 @Component({
   selector: 'app-lista-contatti',
   standalone: true,
-  imports: [],
+  imports: [CommonModule],
   templateUrl: './lista-contatti.component.html',
   styleUrl: './lista-contatti.component.css'
 })
@@ -11,7 +13,7 @@ export class ListaContattiComponent {
 
   persone = [
 
-    {nome: "Antonino", cognome: "Cannavacciuolo", numero: "000", età:45, colore:"rosso", isOnline:true, },
+    {nome: "Antonino", cognome: "Cannavacciuolo", numero: "000", età:45, colore:"rosso", isOnline:true,  },
  
     {nome: "Bruno", cognome: "Barbieri",numero: "111", età:39, colore:"giallo", isOnline:false,},
  

@@ -13,25 +13,25 @@ export class ListaContattiComponent {
 
   persone = [
 
-    {nome: "Antonino", cognome: "Cannavacciuolo", numero: "000", età:45, colore:"rosso", isOnline:true,  },
+    {nome: "Antonino", cognome: "Cannavacciuolo", numero: "000", età:45, colore:"lightgreen", isOnline:true, immagine:"../../assets/antonino_.jpg"  },
  
-    {nome: "Bruno", cognome: "Barbieri",numero: "111", età:39, colore:"giallo", isOnline:false,},
+    {nome: "Bruno", cognome: "Barbieri",numero: "111", età:39, colore:"yellow", isOnline:false, immagine:"../../assets/brunonurb.jpg"},
  
-    {nome: "Carlo", cognome: "Cracco",numero: "222", età:46, colore:"verde", isOnline:true,},
+    {nome: "Alessandro", cognome: "Barbero",numero: "222", età:46, colore:"pink", isOnline:true, immagine:"../../assets/barbero.jpg"},
  
-    {nome: "Iginio", cognome: "Massari",numero: "333", età:19, colore:"blu", isOnline:true,},
+    {nome: "Iginio", cognome: "Massari",numero: "333", età:19, colore:"lightblue", isOnline:true, immagine:"../../assets/iginio.jpg"},
 
-    {nome: "Luca", cognome: "Mastrangelo",numero: "444", età:60, colore:"nero", isOnline:false,},
+    {nome: "Luca", cognome: "Mastrangelo",numero: "444", età:60, colore:"gray", isOnline:false, immagine:"../../assets/MASTRANGELO.jpeg"},
 
-    {nome: "Francesco", cognome: "Totti",numero: "555", età:71, colore:"marrone", isOnline:false,},
+    {nome: "Rudy", cognome: "Zerbi",numero: "555", età:71, colore:"brown", isOnline:false, immagine:"../../assets/rudy.jpg"},
 
-    {nome: "Dario", cognome: "Moccia",numero: "666", età:32, colore:"viola", isOnline:true,},
+    {nome: "Benito", cognome: "Mussolini",numero: "666", età:32, colore:"purple", isOnline:true, immagine:"../../assets/VIVA_IL_DUCE.jpg"},
 
-    {nome: "Stefano", cognome: "Lepri",numero: "777", età:29, colore:"arancione", isOnline:false,},
+    {nome: "Francesco", cognome: "Schettino",numero: "777", età:29, colore:"orange", isOnline:false, immagine:"../../assets/CAPITAN SCHETTINO.jpg"},
 
-    {nome: "Salvatore", cognome: "Cinquegrana",numero: "888", età:36, colore:"bianco", isOnline:false,},
+    {nome: "Mario", cognome: "Balotelli",numero: "888", età:36, colore:"white", isOnline:false, immagine:"../../assets/balotelli.jpg"},
 
-    {nome: "Cristiano", cognome: "Verderio",numero: "999", età:50, colore:"indaco",isOnline:true,},
+    {nome: "Gerry", cognome: "Scotti",numero: "999", età:50, colore:"lightpink",isOnline:true, immagine:"../../assets/gerry_2.jpeg"},
  
   ]
 

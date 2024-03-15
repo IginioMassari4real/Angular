@@ -25,7 +25,7 @@ export class ListaContattiComponent {
 
     {nome: "Rudy", cognome: "Zerbi",numero: "555", età:71, colore:"brown", isOnline:false, immagine:"../../assets/rudy.jpg"},
 
-    {nome: "Benito", cognome: "Mussolini",numero: "666", età:32, colore:"purple", isOnline:true, immagine:"../../assets/VIVA_IL_DUCE.jpg"},
+    {nome: "Giorgio", cognome: "Muratore",numero: "666", età:32, colore:"purple", isOnline:true, immagine:"../../assets/giorgio muratore.jpeg"},
 
     {nome: "Francesco", cognome: "Schettino",numero: "777", età:29, colore:"orange", isOnline:false, immagine:"../../assets/CAPITAN SCHETTINO.jpg"},
 
